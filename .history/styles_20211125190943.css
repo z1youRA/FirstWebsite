@@ -33,6 +33,7 @@ button {
 
 .hero button {
     align-self: flex-start;
+
 }
 
 .hero .text {
@@ -130,10 +131,10 @@ ul {
 
 .end .container {
     color: #F9FAF8;
-    padding: 40px 0;
+    padding: 40px 100px;
     background-color: #3882f6;
     display: flex;
-    justify-content: space-around;
+
 }
 
 .container .main {
@@ -143,8 +144,4 @@ ul {
 
 .end {
     padding :40px 200px;
-}
-
-.end button {
-    border: 2px solid #F9FAF8;
 }
