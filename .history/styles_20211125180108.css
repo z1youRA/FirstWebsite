@@ -32,7 +32,7 @@ button {
     align-self: flex-start;
 }
 
-.hero .text {
+.text {
     display: flex;
     flex-direction: column;
     justify-content: space-between;
@@ -111,15 +111,4 @@ ul {
 
 .quote {
     background-color: #e5e7eb;
-}
-
-.quote .words {
-    font-size: 36px;
-    font-style: italic;
-    color: #1f2937;
-}
-
-.quote .author {
-    font-weight: bold;
-    text-align: end;
 }

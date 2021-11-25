@@ -6,7 +6,6 @@
     background-color: #1f2937;
     display: flex;
     flex-direction: column;
-    padding-bottom: 28px;
 }
 
 .hero .header {
@@ -21,6 +20,7 @@
     display: flex;
     align-items: center;
     justify-content: center;
+    margin-bottom: 24px;
 }
 
 button {
@@ -32,7 +32,7 @@ button {
     align-self: flex-start;
 }
 
-.hero .text {
+.text {
     display: flex;
     flex-direction: column;
     justify-content: space-between;
@@ -107,19 +107,4 @@ ul {
     display: flex;
     justify-content: center;
     gap: 60px;
-}
-
-.quote {
-    background-color: #e5e7eb;
-}
-
-.quote .words {
-    font-size: 36px;
-    font-style: italic;
-    color: #1f2937;
-}
-
-.quote .author {
-    font-weight: bold;
-    text-align: end;
 }
