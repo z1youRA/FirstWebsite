@@ -86,8 +86,7 @@ ul {
 }
 
 .info img {
-    border: 2px solid #3882f6;
-    border-radius: 8px;
+    border: 2px #3882f6
 }
 
 .device {
