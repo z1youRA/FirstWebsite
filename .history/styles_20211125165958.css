@@ -6,12 +6,12 @@
     background-color: #1f2937;
 }
 
-.header .logo {
+.hero .logo {
     font-size: 24px;
     color: #F9FAF8;
 }
 
-.header .right-links {
+.hero .right-links {
     font-size: 18px;
     color: #e5e7eb;
 }
