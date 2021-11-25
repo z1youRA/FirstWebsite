@@ -8,41 +8,30 @@
     flex-direction: column;
 }
 
-.hero .header {
+.header {
     display: flex;
     align-items: center;
     justify-content: space-between;
-    padding: 0 24px 0;
-    margin-bottom: 16px;
 }
 
 .container {
     display: flex;
     align-items: center;
     justify-content: center;
-    margin-bottom: 24px;
-}
-
-button {
-    background-color: #3882f6;
-    color: #F9FAF8;
-    border-radius: 8px;
-    font-size: 16px;
-    padding: 4px 16px;
-    align-self: flex-start;
 }
 
 .text {
-    display: flex;
-    flex-direction: column;
-    justify-content: space-between;
-    height: 150px;
-    max-width: 600px;
-    flex-wrap: nowrap;
+    flex-wrap: wrap;
 }
 
-img {
-    max-height: 150px;
+
+.right-links {
+    display: flex;
+    flex-direction: row;
+}
+
+.hero img {
+    max-height: 200px;
 }
 
 .header .logo {
@@ -53,9 +42,6 @@ img {
 .header .right-links {
     font-size: 18px;
     color: #e5e7eb;
-    display: flex;
-    flex-direction: row;
-    gap: 12px;
 }
 
 .hero .main {
@@ -76,20 +62,4 @@ ul {
 .header a {
     text-decoration: none;
     color: #e5e7eb;
-}
-
-.device {
-    text-align: center;
-}
-
-.info .header {
-    text-align: center;
-    font-size: 36px;
-    font-weight: bolder;
-    color: #1f2937;
-}
-
-.info .pics {
-    display: flex;
-    justify-content: center;
 }

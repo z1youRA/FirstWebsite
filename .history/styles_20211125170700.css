@@ -1,0 +1,53 @@
+* {
+    font-family:roboto, 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+}
+
+.hero {
+    background-color: #1f2937;
+    display: flex;
+}
+
+.hero img {
+    max-width: 500px;
+}
+
+.header {
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+}
+
+.right-links {
+    display: flex;
+    flex-direction: row;
+}
+
+.header .logo {
+    font-size: 24px;
+    color: #F9FAF8;
+}
+
+.header .right-links {
+    font-size: 18px;
+    color: #e5e7eb;
+}
+
+.hero .main {
+    font-size: 48px;
+    font-weight:bolder;
+    color: #F9FAF8;
+}
+
+.hero .secondary {
+    font-size: 18px;
+    color: #e5e7eb;
+}
+
+ul {
+    list-style-type: none;    
+}
+
+.header a {
+    text-decoration: none;
+    color: #e5e7eb;
+}

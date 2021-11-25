@@ -81,15 +81,3 @@ ul {
 .device {
     text-align: center;
 }
-
-.info .header {
-    text-align: center;
-    font-size: 36px;
-    font-weight: bolder;
-    color: #1f2937;
-}
-
-.info .pics {
-    display: flex;
-    justify-content: center;
-}

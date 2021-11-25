@@ -80,13 +80,11 @@ ul {
 
 .device {
     text-align: center;
+    max-width: 100px;
 }
 
 .info .header {
     text-align: center;
-    font-size: 36px;
-    font-weight: bolder;
-    color: #1f2937;
 }
 
 .info .pics {

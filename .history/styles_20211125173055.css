@@ -8,7 +8,7 @@
     flex-direction: column;
 }
 
-.hero .header {
+.header {
     display: flex;
     align-items: center;
     justify-content: space-between;
@@ -20,14 +20,14 @@
     display: flex;
     align-items: center;
     justify-content: center;
-    margin-bottom: 24px;
+    margin-bottom: 16px;
 }
 
 button {
     background-color: #3882f6;
     color: #F9FAF8;
     border-radius: 8px;
-    font-size: 16px;
+    font-size: 20px;
     padding: 4px 16px;
     align-self: flex-start;
 }
@@ -41,7 +41,7 @@ button {
     flex-wrap: nowrap;
 }
 
-img {
+.hero img {
     max-height: 150px;
 }
 
@@ -76,20 +76,4 @@ ul {
 .header a {
     text-decoration: none;
     color: #e5e7eb;
-}
-
-.device {
-    text-align: center;
-}
-
-.info .header {
-    text-align: center;
-    font-size: 36px;
-    font-weight: bolder;
-    color: #1f2937;
-}
-
-.info .pics {
-    display: flex;
-    justify-content: center;
 }
