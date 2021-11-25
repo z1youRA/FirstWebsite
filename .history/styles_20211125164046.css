@@ -1,0 +1,8 @@
+* {
+    font-family:'Courier New', Courier, monospace;
+}
+
+.header .logo {
+    font-size: 48px;
+    font-weight:bolder;
+}

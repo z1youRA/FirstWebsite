@@ -1,0 +1,22 @@
+* {
+    font-family:roboto, 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+}
+
+.header {
+    background-color: #1f2937;
+}
+
+.header .logo {
+    font-size: 24px;
+    color: #F9FAF8;
+}
+
+.header .right-links {
+    font-size: 18px;
+    color: #e5e7eb;
+}
+
+.here .main {
+    font-size: 48px;
+    font-weight:bolder;
+}

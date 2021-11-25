@@ -1,0 +1,8 @@
+* {
+    font-family:roboto, 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+}
+
+.header .logo {
+    font-size: 48px;
+    font-weight:bolder;
+}
